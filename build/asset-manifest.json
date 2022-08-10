@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ddb59cb.css",
+    "main.js": "/static/js/main.b785de8f.js",
+    "static/js/787.d9c43e26.chunk.js": "/static/js/787.d9c43e26.chunk.js",
+    "static/media/lcd.png": "/static/media/lcd.557ab3be07810f4c79cd.png",
+    "static/media/base1.jpg": "/static/media/base1.8e4fa4bd491854244925.jpg",
+    "static/media/apple.jpeg": "/static/media/apple.27214f8bed619f4a5737.jpeg",
+    "static/media/banner3.jpeg": "/static/media/banner3.b0c772a15810b9ea9dab.jpeg",
+    "static/media/sunglas.jpeg": "/static/media/sunglas.369714e94f36d9519adc.jpeg",
+    "static/media/greyshurt6.jpeg": "/static/media/greyshurt6.fa1d36bae23e6cd678b5.jpeg",
+    "static/media/hu.jpeg": "/static/media/hu.4836e76a8d7c7fb3c0f5.jpeg",
+    "static/media/best-deal.png": "/static/media/best-deal.f012f1ebf317db1b6038.png",
+    "static/media/bookimg.jpeg": "/static/media/bookimg.0569a2372f866ed899e7.jpeg",
+    "index.html": "/index.html",
+    "main.4ddb59cb.css.map": "/static/css/main.4ddb59cb.css.map",
+    "main.b785de8f.js.map": "/static/js/main.b785de8f.js.map",
+    "787.d9c43e26.chunk.js.map": "/static/js/787.d9c43e26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddb59cb.css",
+    "static/js/main.b785de8f.js"
+  ]
+}
