@@ -1,7 +1,7 @@
 <h1># BestDeal</h1>
 <h3>Project link :-https://dealflly-4592d.web.app/
   
-pls switch to master branch to see all the files<h3>
+
 
 
 <img width="1666" alt="Screenshot 2022-08-03 at 1 55 27 AM" src="https://user-images.githubusercontent.com/69352034/183863831-b47fa953-1979-44f7-8c60-dc95f920d13e.png">
